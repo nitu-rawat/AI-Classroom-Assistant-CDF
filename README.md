@@ -1,8 +1,32 @@
-# 🏫 Voice-Enabled AI Teaching Assistant
+# 🏫 Voice-Enabled AI Classroom Assistant
+### Connecting Dreams Foundation - Smart Board Prototype
 
-### Project Overview
-This is a prototype developed for the Connecting Dreams Foundation (Round 2 Assignment). It helps government school teachers in Haryana by transforming their voice commands into simple Hinglish explanations and visual quizzes on a smart board.
+An AI-powered teaching assistant built using Python and Streamlit, designed to help educators in government and rural schools. It translates complex textbook topics into simplified, structured Hinglish and generates real-time MCQ quizzes with local context and examples.
 
-### Features
-- **Live Concept Simplification:** Explains topics in easy Hinglish with large text.
-- **Voice-Triggered Quizzing:** Starts a quick quiz via voice command.
+🚀 **Live Demo:** https://huggingface.co/spaces/Nitu8279/CDF-AI-Classroom-Assistant
+
+---
+
+## ✨ Key Features
+
+- **📚 Concept Explainer:** Converts tough textbook topics into student-friendly Hinglish summaries with relatable local Indian examples.
+- **📝 Instant Quiz Generator:** Automatically generates 3-question MCQ assessments with correct answers and detailed structural explanations for real-time classroom testing.
+- **🖥️ Smart Board UI:** Clean, high-readability bulleted structure optimized for modern digital classroom screens and quick teaching.
+
+---
+
+## 🛠️ Tech Stack Used
+
+- **Frontend / Framework:** Streamlit
+- **Language:** Python 3.10+
+- **Deployment Platform:** Hugging Face Spaces
+
+---
+
+## ⚙️ How to Run Locally
+
+If you want to run this project on your local machine, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/YOUR_GITHUB_USERNAME/AI-Classroom-Assistant-CDF.git](https://github.com/YOUR_GITHUB_USERNAME/AI-Classroom-Assistant-CDF.git)
