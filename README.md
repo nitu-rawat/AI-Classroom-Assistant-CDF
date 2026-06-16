@@ -4,6 +4,7 @@
 An AI-powered teaching assistant built using Python and Streamlit, designed to help educators in government and rural schools. It translates complex textbook topics into simplified, structured Hinglish and generates real-time MCQ quizzes with local context and examples.
 
 🚀 **Live Demo:** https://huggingface.co/spaces/Nitu8279/CDF-AI-Classroom-Assistant
+** live demo:** http://127.0.0.1:7860
 
 ---
 
