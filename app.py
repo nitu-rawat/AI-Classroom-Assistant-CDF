@@ -7,7 +7,7 @@ from prompts import TEACHER_PROMPT
 # 1. GEMINI AI CONFIGURATION
 # ==========================================
 # Aapki generate ki hui API Key yahan set ho gayi hai
-GEMINI_API_KEY = "AQ.Ab8RN6JS4yBatnoFHNV3CtNQbGtn-JC-hydhMeBtayzpzQ0zCQ"
+GEMINI_API_KEY = ""
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Aapki screen ke hisab se exact model name set kiya hai
